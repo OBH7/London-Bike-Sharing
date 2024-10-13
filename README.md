@@ -20,7 +20,7 @@ This project analyzes the relationship between weather conditions and bike usage
 ## Tableau Public Link
 You can view the interactive Tableau visualizations directly on Tableau Public through the following link:
 
-[View the Bike Usage and Weather Analysis Dashboard on Tableau Public](https://public.tableau.com/your_dashboard_link_here)
+[View the Bike Usage and Weather Analysis Dashboard on Tableau Public](https://public.tableau.com/views/DoWeatherConditionsEffectBikeSharesinLondon/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Visualizations
 The Tableau dashboard includes the following visualizations:
